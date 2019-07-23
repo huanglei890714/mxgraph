@@ -15,8 +15,7 @@ mxGraph uses no third-party software, it requires no plugins and can be integrat
 
 Getting Started
 ===============
-
-In the root folder there is an index.html file that contains links to all resources. You can view the documentation online on the [Github pages branch](https://jgraph.github.io/mxgraph/). The key resources are the JavaScript user manual, the JavaScript examples and the JavaScript API specificiation.
+在根文件夹中有一个index.html文件，其中包含指向所有资源的链接。 您可以在[Github页面分支]（https://jgraph.github.io/mxgraph/）上在线查看文档。 关键资源是JavaScript用户手册，JavaScript示例和JavaScript API规范。
 
 Support
 =======
